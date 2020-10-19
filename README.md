@@ -1,4 +1,4 @@
-# Toxicity_Detection_Project
+# Toxicity_Detection_Project using NLP
 
 You have to install 
 Python>=3.7
